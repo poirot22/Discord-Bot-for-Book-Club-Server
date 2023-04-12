@@ -3,7 +3,7 @@ import random
 import os
 from keep_online import keep_alive
 from googletrans import Translator
-from boothulu import bad_words
+from profanity import bad_words
 import time
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
