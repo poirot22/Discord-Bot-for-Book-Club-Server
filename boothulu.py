@@ -1,17 +1,2 @@
-bad_words=[
-  "lauda",
-  "modda",
-  "sulli",
-  "gudha",
-  "dengey",
-  "munda",
-  "kutha",
-  "lawda",
-  "lowda",
-  "puku",
-  "ass",
-  "lanja koduku",
-  "lanja",
-  "lanji"
-  ]
+bad_words=[%ADD_PROFANE_WORDS_HERE%]
   
